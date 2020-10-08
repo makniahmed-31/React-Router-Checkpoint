@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-Router-Checkpoint/static/css/main.a5ed603f.chunk.css",
+    "main.js": "/React-Router-Checkpoint/static/js/main.b6b871ee.chunk.js",
+    "main.js.map": "/React-Router-Checkpoint/static/js/main.b6b871ee.chunk.js.map",
+    "runtime-main.js": "/React-Router-Checkpoint/static/js/runtime-main.cbe8fce7.js",
+    "runtime-main.js.map": "/React-Router-Checkpoint/static/js/runtime-main.cbe8fce7.js.map",
+    "static/js/2.6e788239.chunk.js": "/React-Router-Checkpoint/static/js/2.6e788239.chunk.js",
+    "static/js/2.6e788239.chunk.js.map": "/React-Router-Checkpoint/static/js/2.6e788239.chunk.js.map",
+    "index.html": "/React-Router-Checkpoint/index.html",
+    "precache-manifest.c82f93475af68c059038ab06df13bd2a.js": "/React-Router-Checkpoint/precache-manifest.c82f93475af68c059038ab06df13bd2a.js",
+    "service-worker.js": "/React-Router-Checkpoint/service-worker.js",
+    "static/css/main.a5ed603f.chunk.css.map": "/React-Router-Checkpoint/static/css/main.a5ed603f.chunk.css.map",
+    "static/js/2.6e788239.chunk.js.LICENSE.txt": "/React-Router-Checkpoint/static/js/2.6e788239.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cbe8fce7.js",
+    "static/js/2.6e788239.chunk.js",
+    "static/css/main.a5ed603f.chunk.css",
+    "static/js/main.b6b871ee.chunk.js"
+  ]
+}
